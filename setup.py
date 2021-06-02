@@ -6,4 +6,6 @@ setup(
     packages=['tabata',],
     license='MIT',
     long_description='Programmatic, Template Driven Tableau Workbooks',
+    url='https://github.com/realitybytez/Tabata',
+    install_requires=['lxml>=4.5.1',]
 )
